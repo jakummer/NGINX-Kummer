@@ -1,0 +1,23 @@
+{
+  "name": "nginx-kummer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakummer/NGINX-Kummer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakummer/NGINX-Kummer/issues"
+  },
+  "homepage": "https://github.com/jakummer/NGINX-Kummer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
